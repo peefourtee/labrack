@@ -1,0 +1,40 @@
+{
+	"ImportPath": "github.com/peefourtee/labrack",
+	"GoVersion": "go1.6",
+	"GodepVersion": "v60",
+	"Packages": [
+		"github.com/peefourtee/labrack",
+		"github.com/peefourtee/labrack/app"
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/gorilla/websocket",
+			"Rev": "e2e3d8414d0fbae04004f151979f4e27c6747fe7"
+		},
+		{
+			"ImportPath": "github.com/hybridgroup/gobot",
+			"Comment": "v.0.11.1-67-gd84d028",
+			"Rev": "d84d02879c1c291263ad62dd2b5d072e643294e1"
+		},
+		{
+			"ImportPath": "github.com/hybridgroup/gobot/platforms/gpio",
+			"Comment": "v.0.11.1-67-gd84d028",
+			"Rev": "d84d02879c1c291263ad62dd2b5d072e643294e1"
+		},
+		{
+			"ImportPath": "github.com/hybridgroup/gobot/platforms/i2c",
+			"Comment": "v.0.11.1-67-gd84d028",
+			"Rev": "d84d02879c1c291263ad62dd2b5d072e643294e1"
+		},
+		{
+			"ImportPath": "github.com/hybridgroup/gobot/platforms/raspi",
+			"Comment": "v.0.11.1-67-gd84d028",
+			"Rev": "d84d02879c1c291263ad62dd2b5d072e643294e1"
+		},
+		{
+			"ImportPath": "github.com/hybridgroup/gobot/sysfs",
+			"Comment": "v.0.11.1-67-gd84d028",
+			"Rev": "d84d02879c1c291263ad62dd2b5d072e643294e1"
+		}
+	]
+}
